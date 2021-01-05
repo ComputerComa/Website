@@ -95,13 +95,14 @@ li.animated {
 }
 
 #text-center-custom1 {
-    color: rgb(0, 0, 0, 0);
+    color: rgba(255, 255, 255, 0);
     font-family: Quicksand, sans-serif;
-    font-size: 18%
+    font-size: 25%
 }
 
 #text-center-custom2 {
     color: #ffffff;
+    text-align: center;
 }
 
 .photo-gallery {
