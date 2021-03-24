@@ -1,0 +1,68 @@
+
+body{
+
+    background-color: rgb(51, 51, 51);
+    color: azure;
+}
+
+.lg{
+font-size: 45px;
+}
+.nav-link{
+    color:rgb(48, 29, 151);
+}
+
+.nav-link:hover{
+    color: white;
+
+}
+
+.nav-link.active{
+    color: rgb(34, 19, 0);
+}
+
+.nav-link:visited{
+    color: saddlebrown
+
+}
+
+.home{
+
+    color: bisque;
+    font-size: 60px;
+
+}
+
+.home:hover{
+    color: rgb(48, 29, 151);
+}
+
+.active.home:hover{
+    color: bisque;
+}
+
+.top-img{
+
+    width: 512px;
+    height: 288px;
+    padding-top: 10px;
+    border-radius: 10px;
+    border: solid azure 10px;
+}
+
+
+.card{
+    background-color: silver;
+    color: saddlebrown;
+    align-items: center;
+    border-radius: 10px;
+    border: solid azure 10px;
+}
+footer{
+    text-align: center;
+}
+
+.img-me{
+    width: 64px;
+    height: 64px;
+}
